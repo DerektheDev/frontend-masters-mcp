@@ -6,12 +6,13 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [ ],
+  "keywords": [],
   "author": "",
   "license": "ISC",
   "description": "",
   "dependencies": {
     "@modelcontextprotocol/sdk": "^1.16.0",
+    "openmeteo": "^1.2.1",
     "zod": "^3.25.76"
   }
 }
